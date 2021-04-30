@@ -9,11 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: theshovonsaha@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an Artsy Person, I like playing guitar and making cinematic videos
-
+<br />
 
 ## Connect with me :point_down:
 
 [<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theshovon/)
+<br />
 ## Articles
 [<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='instagram' height='40'>](https://theshovonsaha.medium.com/)  
 
