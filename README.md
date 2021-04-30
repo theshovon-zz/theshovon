@@ -1,18 +1,15 @@
-### Hello 👋
-
-<!--
-**theshovon/theshovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello 👋 I am Shovon (Pronounced as "Shove On"). I am soon to be a New Graduate, Summer 2021.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a personal project, a Project Dashboard to assign tasks and check progress. 
 - 🌱 I’m currently learning core principles of Software Design 
 - 🤔 I’m looking for career advice on Software Development
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: theshovonsaha@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an Artsy Person, I like playing guitar and making cinematic videos
--->
+
 
 ## Connect with me :point_down:
 
