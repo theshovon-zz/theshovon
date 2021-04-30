@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## Connect with me :point_down:
 
-[<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theshovon/)
+[<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theshovonsaha/)
 <br />
 ## Articles
 [<img align='left' src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='instagram' height='40'>](https://theshovonsaha.medium.com/)  
