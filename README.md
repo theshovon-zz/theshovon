@@ -1,4 +1,4 @@
-### Hello 👋 I am Shovon (Pronounced as "Shove On"). I am soon to be a New Graduate, Summer 2021.
+### Hello 👋 I am Shovon (Pronounced as "Show von"). I am soon to be a New Graduate, Summer 2021.
 
 Here are some ideas to get you started:
 
